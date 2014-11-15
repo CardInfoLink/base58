@@ -1,4 +1,4 @@
 base58
 ======
 
-Fixed length base58 encoding/decoding for cornerstone
+Fixed length base58 encoding/decoding
